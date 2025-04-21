@@ -11,10 +11,14 @@
 ## Архитектура
 
 ZooSolution/
-├── Zoo.Domain/           # Модели предметной области
-├── Zoo.Application/      # Сервисы и интерфейсы бизнес-логики
-├── Zoo.Infrastructure/   # In-memory репозитории
-└── Zoo.Presentation/     # ASP.NET Core Web API
+
+  Zoo.Domain/           # Модели предметной области
+  
+  Zoo.Application/      # Сервисы и интерфейсы бизнес-логики
+  
+  Zoo.Infrastructure/   # In-memory репозитории
+  
+  Zoo.Presentation/     # ASP.NET Core Web API
 
 ### Domain
 
